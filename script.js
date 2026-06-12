@@ -77,5 +77,5 @@ function lancarDoisDados() {
     document.getElementById("resultado").innerHTML = 
         "Dado 1: " + dado1 + "<br>" +
         "Dado 2: " + dado2 + "<br>" +
-        "Soma dos dasos: " + (dado1 + dado2)
+        "Soma dos dados: " + (dado1 + dado2)
 }
